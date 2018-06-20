@@ -28,5 +28,3 @@ elsif it 'responds with HUH?! SPEAK UP, SONNY! unless you are shouting' do
   end
 
 end
-
-end
